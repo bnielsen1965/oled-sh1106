@@ -1,6 +1,6 @@
 {
   "name": "oled-sh1106",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Display driver for the SH1106 OLED Controller.",
   "main": "lib/index.js",
   "scripts": {
