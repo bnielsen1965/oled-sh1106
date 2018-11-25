@@ -1,4 +1,4 @@
-# SSH1106 OLED Display Driver
+# SH1106 OLED Display Driver
 
 Provides methods to control the SH1106 OLED display driver.
 
