@@ -1,10 +1,14 @@
 {
   "name": "oled-sh1106",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Display driver for the SH1106 OLED Controller.",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bnielsen1965/oled-sh1106.git"
   },
   "keywords": [
     "oled",
